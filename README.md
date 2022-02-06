@@ -8,11 +8,6 @@
 - React.js
 - styled-components
 
-## Tecnologias backend
-- Typescript
-- MongoDb - Cluster online hospedado no MongoDb Atlas conectado via mongoose(). 
-- Express
-
 ## Como utilizar
 - Use "npm" ou "yarn" install no terminal dentro da pasta
 - Use "npm" ou "yarn" start dentro da pasta do frontend para iniciar o front e abrir no navegador a página em react(http://localhost:3000) 
